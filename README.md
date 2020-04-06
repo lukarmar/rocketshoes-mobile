@@ -49,7 +49,7 @@ $ cd ~/rocketshoes-mobile
 $ yarn
 
 # Run the app
-$ yarn start
+$ react-native start
 ```
 
 To run json-server on windows, it will be necessary to remove the security policy restriction:
